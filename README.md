@@ -9,8 +9,6 @@
 
 Techleaf is a digital platform that helps users discover, compare, and apply for the financial products that fit them best — loans, deposits, bank cards, P2P lending, and insurance — using AI-driven matching, real-time data aggregation, and a gamified user experience.
 
-> Built by **Team 3 (SDZ)** at ABB Tech Academy.
-
 ---
 
 ## Table of Contents
