@@ -13,7 +13,7 @@ Techleaf is a digital platform that helps users discover, compare, and apply for
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Vision & Mission](#vision--mission)
